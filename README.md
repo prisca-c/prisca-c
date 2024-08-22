@@ -1,11 +1,35 @@
-- 👋 Hi, I’m @prisca-c
-- 👀 I’m interested in IT, Art & more..
-- 🌱 I’m currently learning many things around IT development.
-- 💞️ I’m looking to collaborate on many things, depend on the subject.
-- 📫 How to reach me : linkedin at https://www.linkedin.com/in/prisca-castanier/
+# 👋 Hey there, I'm Prisca!
 
+Welcome to my corner of the internet! 🚀 Here, you’ll find a bunch of projects that range from “wow, that’s actually useful” to “hmm... well, that’s a thing.” I’m a developer who’s always tinkering, learning, and trying to make the web a better place.
 
-# 💻 Tech :
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 🛠 What I Do
 
-[![](https://visitcount.itsvg.in/api?id=prisca-c&icon=6&color=0)](https://visitcount.itsvg.in)
+- **Frontend Magic:** Vue.js, React, and a dash of CSS wizardry. If it involves making the web look and feel awesome, I'm in.
+- **Backend Sorcery:** Python with Flask, AdonisJS, Laravel and a few secret spells. I started on the front, but I’ve been wandering into the backend lately, i guess I’m becoming a full-stack explorer!
+- **Design Stuff:** Figma is my jam. I’m not just about writing code, I love creating UIs that make you go “oooh, shiny!” ... or just "oooooh...".
+
+## 🌱 Currently...
+
+- Navigating the backend seas more often these days, though I still return to my frontend home port. Who knew backend could be so interesting?
+- Experimenting with open-source contributions, because sharing is caring !
+- Keeping an eye on all the new tech trends, just in case something cool pops up that I need to play with.
+
+## 💼 Previous Adventures
+
+- **YesYes:** I helped maintain and enhance the company’s site with Python/Flask and Vue.js. Fun fact: I created a product alert system that worked so well, it woke up the first person in the queue. (Well no, but maybe)
+- **Netphone:** Designed and built a new website using Figma and WordPress, plus I ran the social media show. Who knew managing posts could be this addictive?
+
+## 🎮 Side Quests
+
+- **Mind Reader:** An open-source project inspired by classic games. It’s a pyramid-style game with a twist. Check it out [here](https://github.com/prisca-c/mind-reader)!
+- **Melonify:** A dashboard tool for streamers that’s still a work in progress. It’s like having a command center for your streaming needs, minus the cool chair and multiple monitors.
+
+## 🚀 Fun Facts
+
+- I’ve got a soft spot for chocolate and tech memes.
+- My code is 80% coffee-fueled, 20% pure inspiration.
+- I believe in never-stop-learning, whether it’s through docs, tutorials, or by breaking things and putting them back together.
+
+## 🙋‍♀️ Get in Touch
+
+- **LinkedIn:** [My Linkedin](https://www.linkedin.com/in/prisca-castanier/) (Let’s connect! I promise not to just spam you with job offers.)
