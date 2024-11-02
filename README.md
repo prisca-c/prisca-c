@@ -10,6 +10,7 @@ Welcome to my corner of the internet! 🚀 Here, you’ll find a bunch of projec
 
 ## 🌱 Currently...
 
+- I'm an happy full-stack developer at @KNPLabs, playing with React & Symfony !
 - Navigating the backend seas more often these days, though I still return to my frontend home port. Who knew backend could be so interesting?
 - Experimenting with open-source contributions, because sharing is caring !
 - Keeping an eye on all the new tech trends, just in case something cool pops up that I need to play with.
